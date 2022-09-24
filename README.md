@@ -1,8 +1,8 @@
 # README
 
-NanoTank-Recommender:
+## NanoTank-Recommender:
 
---Overview--
+### Overview
 
 The high-level modules defining the application are:
 
@@ -14,7 +14,7 @@ The user will interact with the program primarily through the code terminal. It 
 There will not be a high tolerance for typing or formatting errors. Eventually, it may become a goal to create options for the program to handle certain types
 of input, however the initial goal is to simply have a functional algorithm that works with correct inputs.
 
---How To Run--
+### How To Run
 
 mvn package
 ./run --gui
@@ -24,7 +24,7 @@ Then in the REPL:
 2. Find matches for a specific fish from the list using
  "similar_bf similar_bf [num of matches] [first part of fish name] [desired tank size in gallons]"
 
---Testing--
+### Testing
 JUnit tests were written to test the functionality of the bloom filter implemented
 and test the commands.
 
