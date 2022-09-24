@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"edu.brown.cs.student.bloomfilter"},{"l":"edu.brown.cs.student.kdtree"},{"l":"edu.brown.cs.student.project1"}];updateSearchResults();
