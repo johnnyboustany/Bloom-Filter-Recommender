@@ -1,0 +1,15 @@
+INPUT
+create_bf 0.05 1
+insert_bf 8
+insert_bf 9.38
+query_bf 8
+query_bf 9.38
+query_bf 9.380
+OUTPUT
+00000000
+11100100
+11101100
+"8" might be in the set.
+"9.38" might be in the set.
+"9.380" is definitely not in the set.
+END

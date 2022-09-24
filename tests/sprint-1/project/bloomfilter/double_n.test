@@ -1,0 +1,5 @@
+INPUT
+create_bf 0.01 5.0
+OUTPUT
+ERROR:
+END

@@ -1,0 +1,13 @@
+﻿id,name,water,behavior,habitat,substrate,aquarium_preference,min_pH,max_pH,min_hardness,max_hardness,min_temp,max_temp,min_tank_size,image
+1,Harlequin Rasbora,fresh,peaceful,tropical,"sand, gravel",plants,6,7.5,2,15,73,82,10,https://www.aqueon.com/-/media/Images/AqueonNew%20NA/US/care-guides/rasboras/caresheet_rasbora.png?h=400&la=en&w=600&hash=BF90931958C1F7E6918D9B429CC32C988683AD28
+2,Otocinclus,fresh,peaceful,tropical,sand,"plants, decorations",6.8,7.5,6,15,72,79,10,https://static.wikia.nocookie.net/zt2downloadlibrary/images/8/85/Otocinclus_affinis_%28Dycki1231%29.png/revision/latest?cb=20220624170936
+3,Least Killifish,fresh,peaceful,tropical,"sand, river stone",plants,7,8,5,20,69,79,5,https://www.aqueon.com/-/media/Images/AqueonNew%20NA/US/care-guides/killifish/cs_killifish.png?h=400&la=en&w=600&hash=E2C3FF492AE8CEA706163D95185153589971254F
+4,Bumblebee Goby,brackish,"peaceful, territorial",tropical,"river stone, driftwood",plants,7.2,8.5,12,25,72,82,10,https://mytanklife.b-cdn.net/wp-content/uploads/2021/09/Bumblebee-Goby-Brachygobius-xanthozonus-removebg-preview.webp
+5,Scarlet Badis,fresh,"peaceful, micropredators",tropical,"sand, gravel",plants,6.5,7.5,10,20,70,79,10,https://mytanklife.b-cdn.net/wp-content/uploads/2021/01/Scarlet-badis.webp
+6,Neon Tetra,fresh,"peaceful, community",tropical,"sand, gravel, bare",plants,6,8,2,10,70,81,10,https://www.pngmart.com/files/22/Neon-Tetra-PNG.png
+7,Betta Fish,fresh,aggressive,tropical,"sand, gravel",plants,6.5,8,5,20,75,80,5,https://www.pngmart.com/files/5/Betta-PNG-File.png
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,

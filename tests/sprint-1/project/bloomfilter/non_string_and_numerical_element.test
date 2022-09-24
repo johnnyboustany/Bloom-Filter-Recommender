@@ -1,0 +1,9 @@
+INPUT
+create_bf 0.05 1
+insert_bf _
+query_bf _
+OUTPUT
+00000000
+00101010
+"_" might be in the set.
+END

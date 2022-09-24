@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd-cpd>
+   <duplication lines="16" tokens="145">
+      <file line="60"
+            path="/Users/johnnyboustany/Desktop/cs32/project1/src/main/java/edu/brown/cs/fish/project1/NaiveNeighbors.java"/>
+      <file line="102"
+            path="/Users/johnnyboustany/Desktop/cs32/project1/src/main/java/edu/brown/cs/fish/project1/NaiveNeighbors.java"/>
+      <codefragment><![CDATA[        Double zdiffsquared = Math.pow((z - _starArray.get(i).getZ_coord()), 2.0);
+
+        Double distance = Math.sqrt(xdiffsquared + ydiffsquared + zdiffsquared);
+
+        Star starsWithDistance = new Star(_starArray.get(i).getId(), _starArray.get(i).getName(), _starArray.get(i).getX_coord(),
+            _starArray.get(i).getY_coord(), _starArray.get(i).getZ_coord(), distance);
+
+        _starArrayToBeSorted.add(starsWithDistance);
+      }
+
+      Collections.sort(_starArrayToBeSorted, new distanceComparator());
+      for (int j = 0; j < k ; j++) { System.out.println(_starArrayToBeSorted.get(j+1).getId()); }
+
+      return _starArrayToBeSorted; //returning for testing purposes
+
+    } else {]]></codefragment>
+   </duplication>
+</pmd-cpd>
