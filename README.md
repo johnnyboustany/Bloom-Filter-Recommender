@@ -16,6 +16,8 @@ of input, however the initial goal is to simply have a functional algorithm that
 
 ### How To Run
 
+In the terminal:
+
 mvn package
 
 ./run --gui
