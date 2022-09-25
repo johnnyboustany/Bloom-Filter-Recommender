@@ -28,7 +28,7 @@ In the terminal:
 
 e.g. of using similar_bf to find 4 matches for a Neon Tetra fish in a 10 gallon tank
 
-     similar_bf similar_bf 4 Neon 10
+     similar_bf 4 Neon 10
 
 Notes:
 - "load_bf fish" will output a list of fish.
