@@ -20,10 +20,13 @@ mvn package
 
 ./run --gui
 
-Then in the REPL:
-1. Load the bloom filters using "load_bf fish", which will output a list of fish.
-2. Find matches for a specific fish from the list using
- "similar_bf similar_bf [num of matches] [first part of fish name] [desired tank size in gallons]"
+load_bf fish
+
+similar_bf similar_bf [num of matches] [first part of fish name] [desired tank size in gallons]
+
+Notes:
+- "load_bf fish" will output a list of fish.
+- similar_bf finds a specified number of matches for a fish, given a tank size.
 
 ### Testing
 JUnit tests were written to test the functionality of the bloom filter implemented
