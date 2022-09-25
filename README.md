@@ -24,7 +24,7 @@ In the terminal:
 
     load_bf fish
 
-    similar_bf similar_bf [num of matches] [first part of fish name] [desired tank size in gallons]
+    similar_bf similar_bf [number of matches desired] [first part of fish name] [desired tank size in gallons]
 
 Notes:
 - "load_bf fish" will output a list of fish.
