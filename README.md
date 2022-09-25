@@ -17,6 +17,7 @@ of input, however the initial goal is to simply have a functional algorithm that
 ### How To Run
 
 mvn package
+
 ./run --gui
 
 Then in the REPL:
