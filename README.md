@@ -18,13 +18,13 @@ of input, however the initial goal is to simply have a functional algorithm that
 
 In the terminal:
 
-mvn package
+    mvn package
 
-./run --gui
+    ./run --gui
 
-load_bf fish
+    load_bf fish
 
-similar_bf similar_bf [num of matches] [first part of fish name] [desired tank size in gallons]
+    similar_bf similar_bf [num of matches] [first part of fish name] [desired tank size in gallons]
 
 Notes:
 - "load_bf fish" will output a list of fish.
