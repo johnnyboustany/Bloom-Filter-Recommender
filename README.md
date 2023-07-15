@@ -60,7 +60,7 @@ e.g. of using similar_bf to find 4 matches for a Neon Tetra fish in a 10 gallon 
 Notes:
 - "load_bf fish" will output a list of fish.
 - similar_bf finds a specified number of matches for a fish, given a tank size.
-- 
+
 ## Project Status
 Project is: Complete (as of May 2022)
 
