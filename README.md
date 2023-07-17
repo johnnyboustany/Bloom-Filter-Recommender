@@ -27,6 +27,12 @@ The Java application was built upon the foundation of a generic REPL (Read–eva
 
 I created a CSV file with a list of nano-fish and their corresponding data. I included qualitative information for each fish regarding their habitat of origin, aquarium plant and substrate preferences and water salinity (freshwater or brackish). I also included quantitative information, including the ranges of pH, temperature, and hardness that the fish can tolerate and the minimum tank size that would be suitable for them.
 
+<p align="center">
+    <img src="./assets/fish_data.png" height=200 alt="">
+    <br>
+above: Showing examples of the information stored in the CSV file.
+</p>
+
 I set out to create an REPL-based application that could be passed in a fish species name and a tank size and output a certain number of species that could be suitably added to the same tank. The application would have to produce matches based on the qualitative attributes of the fishes. However, it must also ensure that the recommended fish have water parameter ranges that are compatible with those of the given fish.
 
 To find fishes with similar qualitative attributes, I had to find a way to efficiently compare the attributes. I achieved this using bloom filters, which are space-efficient probabilities data structures that are used to test whether an element is a member of a set. I wrote Java classes to create bloom filters, insert information into them and query them. I also implemented an algorithm that evaluates how similar two bloom filters are to each other using XNOR logic. Using the bloom filter data structure and methods that I implemented, I created a bloom filter for every fish in the csv file and loaded the filters with their qualitative data. This allowed me to efficiently check how similar two fish are to each other based on their qualitative information.
@@ -36,6 +42,13 @@ My project end goal was to design a fish recommender that could find a given num
 ## Features
 
 The final product entails a REPL with two main commands. The first command “load_bf fish” creates a bloom filter for each fish in the CSV file and loads them with their qualitative data. It outputs the full list of fish in the CSV file and instructions to guide the user. The second command “similar_bf [k] [name] [tank size]” finds k matches for a fish species given its name and the tank size (in gallons). It outputs the list of matches in order from most similar to least.
+
+<p align="center">
+    <img src="./assets/nanofishterminal.png" height=200 alt="">
+    <br>
+    above: Showing the REPL in action and the outputs from calling load_bf and similar_bf.
+</p>
+
 
 ## Testing
 
