@@ -28,7 +28,7 @@ The Java application was built upon the foundation of a generic REPL (Read–eva
 I created a CSV file with a list of nano-fish and their corresponding data. I included qualitative information for each fish regarding their habitat of origin, aquarium plant and substrate preferences and water salinity (freshwater or brackish). I also included quantitative information, including the ranges of pH, temperature, and hardness that the fish can tolerate and the minimum tank size that would be suitable for them.
 
 <p align="center">
-    <img src="./assets/fish_data.png" height=200 alt="">
+    <img src="./assets/fish_data.png" height=100 alt="">
     <br>
 above: Showing examples of the information stored in the CSV file.
 </p>
@@ -44,7 +44,7 @@ My project end goal was to design a fish recommender that could find a given num
 The final product entails a REPL with two main commands. The first command “load_bf fish” creates a bloom filter for each fish in the CSV file and loads them with their qualitative data. It outputs the full list of fish in the CSV file and instructions to guide the user. The second command “similar_bf [k] [name] [tank size]” finds k matches for a fish species given its name and the tank size (in gallons). It outputs the list of matches in order from most similar to least.
 
 <p align="center">
-    <img src="./assets/nanofishterminal.png" height=200 alt="">
+    <img src="./assets/nanofishterminal.png" height=400 alt="">
     <br>
     above: Showing the REPL in action and the outputs from calling load_bf and similar_bf.
 </p>
