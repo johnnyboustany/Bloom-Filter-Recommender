@@ -6,6 +6,7 @@ import edu.brown.cs.student.project1.Command;
  * insert into the bloom filter.
  *
  */
+
 public class InsertBF implements Command {
   private BloomFilter bf;
 
