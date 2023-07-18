@@ -3,7 +3,6 @@
 from optparse import OptionParser
 import difflib, io, os, subprocess, sys, tempfile, codecs
 sys.stdout = open(sys.stdout.fileno(), mode='w', encoding='utf8', buffering=1)
-
 # color constants
 END   = '\033[0m'
 HEADER  = '\033[48;5;60m\033[38;5;15m'
