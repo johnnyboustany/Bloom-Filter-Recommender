@@ -17,7 +17,6 @@
 
       Collections.sort(_starArrayToBeSorted, new distanceComparator());
       for (int j = 0; j < k ; j++) { System.out.println(_starArrayToBeSorted.get(j+1).getId()); }
-
       return _starArrayToBeSorted; //returning for testing purposes
 
     } else {]]></codefragment>
