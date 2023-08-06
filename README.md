@@ -1,6 +1,6 @@
 # Bloom Filter Recommender
 
-NanoFish Matcher is a personal project I developed to allow aquarium hobbyists to find compatible tank-mate options for their nano-fish. It uses bloom filters to find similar fish out of a CSV Database of nano-fish. I developed a generic, re-usable REPL and CSV Reader and incorporated them into the project.
+Bloom Filter Recommender is a personal project I developed to allow aquarium hobbyists to find compatible tank-mate options for their nano-fish. It uses bloom filters to find similar fish out of a CSV Database of nano-fish. I developed a generic, re-usable REPL and CSV Reader and incorporated them into the project.
 
 <p align="center">
     <img src="./assets/nanofish.png" alt="" width="1000">
