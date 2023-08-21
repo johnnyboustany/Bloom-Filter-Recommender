@@ -1,4 +1,4 @@
-﻿id,name,water,behavior,habitat,substrate,aquarium_preference,min_pH,max_pH,min_hardness,max_hardness,min_temp,max_temp,min_tank_size,image
+id,name,water,behavior,habitat,substrate,aquarium_preference,min_pH,max_pH,min_hardness,max_hardness,min_temp,max_temp,min_tank_size,image
 1,Harlequin Rasbora,fresh,peaceful,tropical,"sand, gravel",plants,6,7.5,2,15,73,82,10,https://www.aqueon.com/-/media/Images/AqueonNew%20NA/US/care-guides/rasboras/caresheet_rasbora.png?h=400&la=en&w=600&hash=BF90931958C1F7E6918D9B429CC32C988683AD28
 2,Otocinclus,fresh,peaceful,tropical,sand,"plants, decorations",6.8,7.5,6,15,72,79,10,https://static.wikia.nocookie.net/zt2downloadlibrary/images/8/85/Otocinclus_affinis_%28Dycki1231%29.png/revision/latest?cb=20220624170936
 3,Least Killifish,fresh,peaceful,tropical,"sand, river stone",plants,7,8,5,20,69,79,5,https://www.aqueon.com/-/media/Images/AqueonNew%20NA/US/care-guides/killifish/cs_killifish.png?h=400&la=en&w=600&hash=E2C3FF492AE8CEA706163D95185153589971254F
@@ -9,3 +9,293 @@
 8,Ember Tetra,fresh,peaceful,tropical,"sand, gravel",plants,5.8,6.8,5,17,70,74,10,https://mytanklife.b-cdn.net/wp-content/uploads/2021/01/pixlr-bg-result-12-1.webp
 9,Pygmy Corydoras,fresh,peaceful,tropical,sand,plants,6,8,2,25,70,74,10,https://www.aqueon.com/-/media/Images/AqueonNew%20NA/US/care-guides/corydoras-catfish/albinocorydorasaneus_600x400.png?h=400&la=en&w=600&hash=1863DE8D429A5162C7CE66416329BFEB844F85E6
 10,Bumblebee Platy,fresh,peaceful,tropical,"sand, gravel",plants,7,8,10,28,72,80,15,https://i.imgur.com/MyuFgd7.png
+11,Electric Yellow Cichlid,fresh,semi-aggressive,tropical,sand,decorations,6.5,8,5,20,72,82,30,https://www.pngmart.com/files/2/Electric-Yellow-Cichlid-Fish-PNG-Pic.png
+12,German Blue Ram,fresh,peaceful,tropical,sand,plants,5.5,7.5,2,15,78,85,10,https://www.pngmart.com/files/3/German-Blue-Ram-Fish-PNG-Transparent-Image.png
+13,Red Devil Cichlid,fresh,aggressive,tropical,sand,decorations,6.5,8.5,5,20,72,82,50,https://www.pngmart.com/files/12/Red-Devil-Cichlid-Fish-PNG-Image.png
+14,Ember Tetra,fresh,peaceful,tropical,"sand, gravel",plants,5.8,6.8,5,17,70,74,10,https://mytanklife.b-cdn.net/wp-content/uploads/2021/01/pixlr-bg-result-12-1.webp
+15,Pygmy Corydoras,fresh,peaceful,tropical,sand,plants,6,8,2,25,70,74,10,https://www.aqueon.com/-/media/Images/AqueonNew%20NA/US/care-guides/corydoras-catfish/albinocorydorasaneus_600x400.png?h=400&la=en&w=600&hash=1863DE8D429A5162C7CE66416329BFEB844F85E6
+16,Bumblebee Platy,fresh,peaceful,tropical,"sand, gravel",plants,7,8,10,28,72,80,15,https://i.imgur.com/MyuFgd7.png
+17,Kribensis,fresh,peaceful,tropical,sand,plants,5.5,7.5,2,15,72,82,20,https://www.pngmart.com/files/5/Kribensis-Fish-PNG-Transparent-Pic.png
+18,Neon Blue Dwarf Gourami,fresh,peaceful,tropical,sand,plants,6,7.5,5,15,72,82,10,https://www.pngmart.com/files/5/Neon-Blue-Dwarf-Gourami-Fish-PNG-Image.png
+19,Firemouth Cichlid,fresh,aggressive,tropical,sand,decorations,6.5,8,5,20,75,82,30,https://www.pngmart.com/files/3/Firemouth-Cichlid-Fish-PNG-Pic.png
+20,Bristlenose Pleco,fresh,peaceful,tropical,sand,decorations,6.5,7.5,5,20,72,82,20,https://www.pngmart.com/files/2/Bristlenose-Pleco-Fish-PNG-Transparent-Image.png
+21,Blue Acara,fresh,peaceful,tropical,sand,plants,6,7.5,5,20,72,82,30,https://www.pngmart.com/files/12/Blue-Acara-Fish-PNG-Pic.png
+22,Red Wag Platy,fresh,peaceful,tropical,sand,plants,7,8,10,28,72,80,15,https://www.pngmart.com/files/4/Red-Wag-Platy-Fish-PNG-File.png
+23,Blue Tetra,fresh,peaceful,tropical,sand,plants,5.5,7.5,2,15,72,82,10,https://www.pngmart.com/files/4/Blue-Tetra-Fish-PNG-Transparent-Image.png
+24,Boesemans Rainbowfish,fresh,peaceful,tropical,sand,plants,6.5,7.5,5,15,72,82,20,https://www.pngmart.com/files/12/Boesemans-Rainbowfish-Fish-PNG-HD.png
+25,Buenos Aires Tetra,fresh,peaceful,tropical,sand,plants,6,7.5,5,15,72,82,10,https://www.pngmart.com/files/5/Buenos-Aires-Tetra-Fish-PNG-Pic.png
+26,Yellow Lab Cichlid,fresh,peaceful,tropical,sand,decorations,7.5,8.5,5,20,74,82,30,https://www.pngmart.com/files/2/Yellow-Lab-Cichlid-Fish-PNG-Pic.png
+27,Denison Barb,fresh,peaceful,tropical,sand,decorations,6,7.5,5,20,72,82,20,https://www.pngmart.com/files/11/Denison-Barb-Fish-PNG-Picture.png
+28,Jack Dempsey Cichlid,fresh,aggressive,tropical,sand,decorations,6.5,8.5,5,20,72,82,50,https://www.pngmart.com/files/2/Jack-Dempsey-Cichlid-Fish-PNG-HD.png
+29,Brown Hoplo Catfish,fresh,peaceful,tropical,sand,decorations,6.5,7.5,5,15,72,82,20,https://www.pngmart.com/files/5/Brown-Hoplo-Catfish-Fish-PNG-Pic.png
+30,Rosy Barb,fresh,semi-aggressive,tropical,sand,decorations,6,7.5,5,15,72,82,10,https://www.pngmart.com/files/11/Rosy-Barb-Fish-PNG-Pic.png
+31,Serpae Tetra,fresh,peaceful,tropical,sand,plants,6,7.5,5,15,72,82,10,https://www.pngmart.com/files/12/Serpae-Tetra-Fish-PNG-File.png
+32,German Blue Ram,fresh,peaceful,tropical,sand,plants,5.5,7.5,2,15,78,85,10,https://www.pngmart.com/files/3/German-Blue-Ram-Fish-PNG-Transparent-Image.png
+33,Rainbowfish,fresh,peaceful,tropical,sand,plants,6.5,7.5,5,15,72,82,20,https://www.pngmart.com/files/5/Bosemans-Rainbowfish-Fish-PNG-Pic.png
+34,Red Eye Tetra,fresh,peaceful,tropical,sand,plants,6,7.5,5,15,72,82,10,https://www.pngmart.com/files/12/Red-Eye-Tetra-Fish-PNG-Pic.png
+35,Clown Loach,fresh,peaceful,tropical,sand,decorations,6.5,7.5,2,15,72,82,30,https://www.pngmart.com/files/3/Clown-Loach-Fish-PNG-Pic.png
+36,Gourami,fresh,peaceful,tropical,sand,plants,6,7.5,5,15,72,82,20,https://www.pngmart.com/files/11/Gourami-Fish-PNG-Transparent-Image.png
+37,Angelfish,fresh,semi-aggressive,tropical,sand,plants,6.5,7.5,5,20,72,82,30,https://www.pngmart.com/files/5/Angelfish-Fish-PNG-Picture.png
+38,Paradise Fish,fresh,aggressive,tropical,sand,plants,6,8,5,20,75,82,15,https://www.pngmart.com/files/3/Paradise-Fish-Fish-PNG-Image.png
+39,Redtail Catfish,fresh,aggressive,tropical,sand,decorations,6.5,8,5,20,75,82,50,https://www.pngmart.com/files/4/Redtail-Catfish-Fish-PNG-Pic.png
+40,Discus Fish,fresh,peaceful,tropical,sand,plants,6,7.5,2,15,78,86,30,https://www.pngmart.com/files/2/Discus-Fish-PNG-Transparent-Image.png
+41,Black Molly,fresh,peaceful,tropical,sand,plants,7,8,10,28,72,82,20,https://www.pngmart.com/files/5/Black-Molly-Fish-PNG-Image.png
+42,Goldfish,fresh,peaceful,cold,"sand, gravel",decorations,6,8,5,20,65,75,30,https://www.pngmart.com/files/2/Goldfish-Fish-PNG-File.png
+43,Green Terror Cichlid,fresh,aggressive,tropical,sand,decorations,6.5,8.5,5,20,72,82,50,https://www.pngmart.com/files/2/Green-Terror-Cichlid-Fish-PNG-Pic.png
+44,Zebra Danio,fresh,peaceful,tropical,"sand, gravel",plants,6.5,7.5,5,20,65,77,10,https://www.pngmart.com/files/3/Zebra-Danio-Fish-PNG-HD.png
+45,White Cloud Mountain Minnow,fresh,peaceful,cold,"sand, gravel",plants,6,8,5,15,64,72,10,https://www.pngmart.com/files/3/White-Cloud-Mountain-Minnow-Fish-PNG-Transparent-Image.png
+46,Pearl Gourami,fresh,peaceful,tropical,sand,plants,6,7.5,5,15,72,82,20,https://www.pngmart.com/files/4/Pearl-Gourami-Fish-PNG-Transparent-Picture.png
+47,Green Swordtail,fresh,peaceful,tropical,"sand, gravel",plants,7,8,10,28,72,82,15,https://www.pngmart.com/files/2/Green-Swordtail-Fish-PNG-Picture.png
+48,Red Arowana,fresh,aggressive,tropical,sand,decorations,6.5,7.5,5,20,75,82,100,https://www.pngmart.com/files/5/Red-Arowana-Fish-PNG-Image.png
+49,Bala Shark,fresh,peaceful,tropical,sand,decorations,6.5,7.5,5,20,72,82,50,https://www.pngmart.com/files/5/Bala-Shark-Fish-PNG-File.png
+50,Glowlight Tetra,fresh,peaceful,tropical,sand,plants,6.5,7.5,5,20,72,82,10,https://www.pngmart.com/files/5/Glowlight-Tetra-Fish-PNG-Transparent-Pic.png
+51,Buenos Aires Tetra,fresh,peaceful,tropical,sand,plants,6,7.5,5,15,72,82,10,https://www.pngmart.com/files/5/Buenos-Aires-Tetra-Fish-PNG-Pic.png
+52,Blue Gourami,fresh,peaceful,tropical,sand,plants,6,7.5,5,15,72,82,20,https://www.pngmart.com/files/5/Blue-Gourami-Fish-PNG-Pic.png
+53,Corydoras Catfish,fresh,peaceful,tropical,sand,decorations,6.5,7.5,5,15,70,77,10,https://www.pngmart.com/files/3/Corydoras-Catfish-Fish-PNG-Pic.png
+54,Redtail Shark,fresh,semi-aggressive,tropical,"sand, gravel",decorations,6.5,7.5,5,20,72,82,30,https://www.pngmart.com/files/3/Redtail-Shark-Fish-PNG-Picture.png
+55,Platinum Gourami,fresh,peaceful,tropical,sand,plants,6,7.5,5,15,72,82,20,https://www.pngmart.com/files/4/Platinum-Gourami-Fish-PNG-Transparent-Image.png
+56,Kuhli Loach,fresh,peaceful,tropical,sand,decorations,6.5,7.5,5,20,72,82,20,https://www.pngmart.com/files/5/Kuhli-Loach-Fish-PNG-Pic.png
+57,Tiger Barb,fresh,semi-aggressive,tropical,"sand, gravel",plants,6.5,7.5,5,20,72,82,10,https://www.pngmart.com/files/4/Tiger-Barb-Fish-PNG-Transparent-Pic.png
+58,Black Skirt Tetra,fresh,peaceful,tropical,sand,plants,6.5,7.5,5,15,72,82,10,https://www.pngmart.com/files/2/Black-Skirt-Tetra-Fish-PNG-Transparent-Pic.png
+59,Bumblebee Goby,brackish,"peaceful, territorial",tropical,"river stone, driftwood",plants,7.2,8.5,12,25,72,82,10,https://mytanklife.b-cdn.net/wp-content/uploads/2021/09/Bumblebee-Goby-Brachygobius-xanthozonus-removebg-preview.webp
+60,Red Tailed Catfish,fresh,aggressive,tropical,sand,decorations,6.5,8,5,20,75,82,50,https://www.pngmart.com/files/4/Red-Tailed-Catfish-Fish-PNG-Image.png
+61,Golden Gourami,fresh,peaceful,tropical,sand,plants,6,7.5,5,15,72,82,20,https://www.pngmart.com/files/2/Golden-Gourami-Fish-PNG-Image.png
+62,Threadfin Rainbowfish,fresh,peaceful,tropical,sand,plants,6.5,7.5,5,15,72,82,20,https://www.pngmart.com/files/3/Threadfin-Rainbowfish-Fish-PNG-Picture.png
+63,Cherry Barb,fresh,peaceful,tropical,sand,plants,6,7.5,5,15,72,82,10,https://www.pngmart.com/files/3/Cherry-Barb-Fish-PNG-Image.png
+64,Gold Barb,fresh,peaceful,tropical,sand,plants,6,7.5,5,15,72,82,10,https://www.pngmart.com/files/2/Gold-Barb-Fish-PNG-Image.png
+65,Black Neon Tetra,fresh,peaceful,tropical,sand,plants,6,7.5,5,15,72,82,10,https://www.pngmart.com/files/5/Black-Neon-Tetra-Fish-PNG-Picture.png
+66,Celestial Pearl Danio,fresh,peaceful,tropical,sand,plants,6,7.5,5,15,72,82,10,https://www.pngmart.com/files/5/Celestial-Pearl-Danio-Fish-PNG-Pic.png
+67,Crowntail Betta,fresh,aggressive,tropical,sand,decorations,6.5,8,5,20,75,80,5,https://www.pngmart.com/files/3/Crowntail-Betta-Fish-PNG-Pic.png
+68,Clown Pleco,fresh,peaceful,tropical,sand,decorations,6.5,7.5,5,20,70,77,20,https://www.pngmart.com/files/5/Clown-Pleco-Fish-PNG-Picture.png
+69,Zebra Pleco,fresh,peaceful,tropical,sand,decorations,6,7.5,5,20,72,82,20,https://www.pngmart.com/files/3/Zebra-Pleco-Fish-PNG-Pic.png
+70,Guppy,fresh,peaceful,tropical,"sand, gravel",plants,6.5,8,5,20,72,82,10,https://www.pngmart.com/files/5/Guppy-Fish-PNG-Pic.png
+71,Chocolate Gourami,fresh,peaceful,tropical,sand,plants,6,7.5,5,15,72,82,10,https://www.pngmart.com/files/4/Chocolate-Gourami-Fish-PNG-Image.png
+72,Pictus Catfish,fresh,peaceful,tropical,sand,decorations,6.5,7.5,5,20,72,82,20,https://www.pngmart.com/files/3/Pictus-Catfish-Fish-PNG-Picture.png
+73,Keyhole Cichlid,fresh,peaceful,tropical,sand,plants,6.5,7.5,5,15,72,82,20,https://www.pngmart.com/files/4/Keyhole-Cichlid-Fish-PNG-Pic.png
+74,Purple Betta,fresh,aggressive,tropical,sand,decorations,6.5,8,5,20,75,80,5,https://www.pngmart.com/files/2/Purple-Betta-Fish-PNG-Pic.png
+75,Endler Livebearer,fresh,peaceful,tropical,"sand, gravel",plants,6,8,5,20,72,82,10,https://www.pngmart.com/files/2/Endlers-Livebearer-Fish-PNG-Picture.png
+76,Gar,Cold,aggressive,freshwater,sand,decorations,6.5,8,5,20,75,85,100,https://www.pngmart.com/files/5/Gar-Fish-PNG-Transparent-Image.png
+77,Flagfish,fresh,semi-aggressive,tropical,sand,plants,6,7.5,5,20,72,82,20,https://www.pngmart.com/files/5/Flagfish-Fish-PNG-Pic.png
+78,Yellowtail Damselfish,brackish,semi-aggressive,tropical,sand,decorations,6.5,8,5,20,72,82,30,https://www.pngmart.com/files/2/Yellowtail-Damselfish-Fish-PNG-Pic.png
+79,Tetraodon fluviatilis,fresh,aggressive,tropical,sand,decorations,6.5,8,5,20,75,82,20,https://www.pngmart.com/files/3/Tetraodon-fluviatilis-Fish-PNG-Picture.png
+80,Large Mouth Bass,fresh,aggressive,tropical,sand,decorations,6.5,8,5,20,75,82,50,https://www.pngmart.com/files/3/Large-Mouth-Bass-Fish-PNG-Image.png
+81,Australian Rainbowfish,fresh,peaceful,tropical,sand,plants,6.5,7.5,5,15,72,82,20,https://www.pngmart.com/files/2/Australian-Rainbowfish-Fish-PNG-Pic.png
+82,Silver Dollar,fresh,peaceful,tropical,sand,plants,6,7.5,5,20,72,82,30,https://www.pngmart.com/files/3/Silver-Dollar-Fish-PNG-Picture.png
+83,Red Tail Hemiodus,fresh,peaceful,tropical,sand,plants,6.5,7.5,5,15,72,82,20,https://www.pngmart.com/files/2/Red-Tail-Hemiodus-Fish-PNG-Pic.png
+84,Green Neon Tetra,fresh,peaceful,tropical,sand,plants,6,7.5,5,15,72,82,10,https://www.pngmart.com/files/2/Green-Neon-Tetra-Fish-PNG-Picture.png
+85,Bristlenose Catfish,fresh,peaceful,tropical,sand,decorations,6.5,7.5,5,20,70,77,20,https://www.pngmart.com/files/2/Bristlenose-Catfish-Fish-PNG-Pic.png
+86,Peacock Cichlid,fresh,semi-aggressive,tropical,sand,decorations,6.5,7.5,5,20,72,82,30,https://www.pngmart.com/files/3/Peacock-Cichlid-Fish-PNG-Picture.png
+87,Kribensis,fresh,peaceful,tropical,sand,plants,5.5,7.5,2,15,72,82,20,https://www.pngmart.com/files/5/Kribensis-Fish-PNG-Transparent-Pic.png
+88,Convict Cichlid,fresh,aggressive,tropical,sand,decorations,6.5,7.5,5,20,72,82,20,https://www.pngmart.com/files/4/Convict-Cichlid-Fish-PNG-Pic.png
+89,Golden Nugget Pleco,fresh,peaceful,tropical,sand,decorations,6.5,7.5,5,20,70,77,30,https://www.pngmart.com/files/4/Golden-Nugget-Pleco-Fish-PNG-Image.png
+90,Bumblebee Goby,brackish,"peaceful, territorial",tropical,"river stone, driftwood",plants,7.2,8.5,12,25,72,82,10,https://mytanklife.b-cdn.net/wp-content/uploads/2021/09/Bumblebee-Goby-Brachygobius-xanthozonus-removebg-preview.webp
+91,Firemouth Cichlid,fresh,aggressive,tropical,sand,decorations,6.5,8,5,20,75,82,30,https://www.pngmart.com/files/3/Firemouth-Cichlid-Fish-PNG-Pic.png
+92,Ghost Shrimp,fresh,peaceful,tropical,sand,plants,6.5,7.5,5,20,72,82,5,https://www.pngmart.com/files/2/Ghost-Shrimp-Fish-PNG-Image.png
+93,Mickey Mouse Platy,fresh,peaceful,tropical,sand,plants,7,8,10,28,72,80,15,https://www.pngmart.com/files/4/Mickey-Mouse-Platy-Fish-PNG-Pic.png
+94,Raphael Catfish,fresh,peaceful,tropical,sand,decorations,6.5,7.5,5,20,70,77,20,https://www.pngmart.com/files/5/Raphael-Catfish-Fish-PNG-Pic.png
+95,Common Pleco,fresh,peaceful,tropical,sand,decorations,6.5,7.5,5,20,70,77,20,https://www.pngmart.com/files/2/Common-Pleco-Fish-PNG-Picture.png
+96,Corydoras Paleatus,fresh,peaceful,tropical,sand,plants,6,8,2,25,70,74,10,https://www.pngmart.com/files/3/Corydoras-Paleatus-Fish-PNG-Image.png
+97,Rummy Nose Tetra,fresh,peaceful,tropical,sand,plants,6.5,7.5,5,15,72,82,10,https://www.pngmart.com/files/2/Rummy-Nose-Tetra-Fish-PNG-Pic.png
+98,Glowing Glass Tetra,fresh,peaceful,tropical,sand,plants,6,7.5,5,15,72,82,10,https://www.pngmart.com/files/3/Glowing-Glass-Tetra-Fish-PNG-Image.png
+99,Red Rainbowfish,fresh,peaceful,tropical,sand,plants,6.5,7.5,5,15,72,82,20,https://www.pngmart.com/files/5/Red-Rainbowfish-Fish-PNG-Pic.png
+100,Black Ruby Barb,fresh,peaceful,tropical,sand,plants,6,7.5,5,15,72,82,10,https://www.pngmart.com/files/3/Black-Ruby-Barb-Fish-PNG-Image.png
+101,Green Terror Cichlid,fresh,aggressive,tropical,sand,decorations,6.5,8.5,5,20,72,82,50,https://www.pngmart.com/files/2/Green-Terror-Cichlid-Fish-PNG-Pic.png
+102,Red Arc Pencilfish,fresh,peaceful,tropical,sand,plants,6.5,7.5,5,15,72,82,10,https://www.pngmart.com/files/3/Red-Arc-Pencilfish-Fish-PNG-Image.png
+103,Panda Corydoras,fresh,peaceful,tropical,sand,plants,6,8,2,25,70,74,10,https://www.pngmart.com/files/2/Panda-Corydoras-Fish-PNG-Picture.png
+104,Black Neon Tetra,fresh,peaceful,tropical,sand,plants,6,7.5,5,15,72,82,10,https://www.pngmart.com/files/5/Black-Neon-Tetra-Fish-PNG-Picture.png
+105,Neon Tetra,fresh,peaceful,tropical,"sand, gravel, bare",plants,6,8,2,10,70,81,10,https://www.pngmart.com/files/22/Neon-Tetra-PNG.png
+106,Red Tail Shark,fresh,semi-aggressive,tropical,"sand, gravel",decorations,6.5,7.5,5,20,72,82,30,https://www.pngmart.com/files/3/Red-Tail-Shark-Fish-PNG-Pic.png
+107,Black Molly,fresh,peaceful,tropical,sand,plants,7,8,10,28,72,80,15,https://www.pngmart.com/files/5/Black-Molly-Fish-PNG-Image.png
+108,Albino Bristlenose Pleco,fresh,peaceful,tropical,sand,decorations,6.5,7.5,5,20,72,82,20,https://www.pngmart.com/files/4/Albino-Bristlenose-Pleco-Fish-PNG-Pic.png
+109,Redeye Tetra,fresh,peaceful,tropical,sand,plants,6,7.5,5,15,72,82,10,https://www.pngmart.com/files/5/Redeye-Tetra-Fish-PNG-Pic.png
+110,Yellowtail Tetra,fresh,peaceful,tropical,sand,plants,6,7.5,5,15,72,82,10,https://www.pngmart.com/files/3/Yellowtail-Tetra-Fish-PNG-Picture.png
+111,Sunset Gourami,fresh,peaceful,tropical,sand,plants,6,7.5,5,15,72,82,20,https://www.pngmart.com/files/3/Sunset-Gourami-Fish-PNG-Pic.png
+112,Threadfin Acara,fresh,peaceful,tropical,sand,plants,6,7.5,5,15,72,82,20,https://www.pngmart.com/files/4/Threadfin-Acara-Fish-PNG-Picture.png
+113,Siamese Algae Eater,fresh,peaceful,tropical,sand,plants,6.5,7.5,5,20,72,82,10,https://www.pngmart.com/files/2/Siamese-Algae-Eater-Fish-PNG-Pic.png
+114,Glowlight Danio,fresh,peaceful,tropical,sand,plants,6,7.5,5,20,72,82,10,https://www.pngmart.com/files/4/Glowlight-Danio-Fish-PNG-Pic.png
+115,White Skirt Tetra,fresh,peaceful,tropical,sand,plants,6,7.5,5,15,72,82,10,https://www.pngmart.com/files/3/White-Skirt-Tetra-Fish-PNG-Picture.png
+116,Black Ghost Knifefish,fresh,peaceful,tropical,sand,decorations,6.5,7.5,5,20,75,82,50,https://www.pngmart.com/files/5/Black-Ghost-Knifefish-Fish-PNG-Pic.png
+117,Gibberosa Cichlid,fresh,peaceful,tropical,sand,decorations,6.5,7.5,5,20,72,82,30,https://www.pngmart.com/files/2/Gibberosa-Cichlid-Fish-PNG-Image.png
+118,Fire Eel,fresh,peaceful,tropical,sand,decorations,6.5,7.5,5,20,75,82,50,https://www.pngmart.com/files/3/Fire-Eel-Fish-PNG-Picture.png
+119,Leopard Danio,fresh,peaceful,tropical,sand,plants,6.5,7.5,5,15,72,82,10,https://www.pngmart.com/files/2/Leopard-Danio-Fish-PNG-Pic.png
+120,Bumblebee Platy,fresh,peaceful,tropical,"sand, gravel",plants,7,8,10,28,72,80,15,https://i.imgur.com/MyuFgd7.png
+121,Pea Puffer,fresh,semi-aggressive,tropical,sand,plants,6,7.5,5,15,72,82,10,https://www.pngmart.com/files/2/Pea-Puffer-Fish-PNG-Pic.png
+122,Red Spotted Severum,fresh,peaceful,tropical,sand,decorations,6.5,7.5,5,20,72,82,30,https://www.pngmart.com/files/4/Red-Spotted-Severum-Fish-PNG-Pic.png
+123,Golden Goby,fresh,peaceful,tropical,sand,decorations,6,7.5,5,20,72,82,15,https://www.pngmart.com/files/3/Golden-Goby-Fish-PNG-Pic.png
+124,Orange Chromide,fresh,peaceful,tropical,sand,plants,6.5,7.5,5,20,72,82,10,https://www.pngmart.com/files/2/Orange-Chromide-Fish-PNG-Pic.png
+125,Hatchetfish,fresh,peaceful,tropical,sand,plants,6,7.5,5,15,72,82,10,https://www.pngmart.com/files/5/Hatchetfish-Fish-PNG-Pic.png
+126,Black Skirt Tetra,fresh,peaceful,tropical,sand,plants,6.5,7.5,5,15,72,82,10,https://www.pngmart.com/files/3/Black-Skirt-Tetra-Fish-PNG-Pic.png
+127,Electric Blue Jack Dempsey,fresh,aggressive,tropical,sand,decorations,6.5,7.5,5,20,72,82,50,https://www.pngmart.com/files/4/Electric-Blue-Jack-Dempsey-Fish-PNG-Pic.png
+128,Giant Freshwater Prawn,fresh,peaceful,tropical,sand,plants,6.5,8,5,20,72,82,5,https://www.pngmart.com/files/2/Giant-Freshwater-Prawn-Fish-PNG-Image.png
+129,Redtail Knifefish,fresh,peaceful,tropical,sand,decorations,6.5,7.5,5,20,75,82,30,https://www.pngmart.com/files/5/Redtail-Knifefish-Fish-PNG-Picture.png
+130,Rubber Lipped Pleco,fresh,peaceful,tropical,sand,decorations,6.5,7.5,5,20,70,77,20,https://www.pngmart.com/files/4/Rubber-Lipped-Pleco-Fish-PNG-Pic.png
+131,Tiger Oscar,fresh,aggressive,tropical,sand,decorations,6.5,8,5,20,75,82,50,https://www.pngmart.com/files/3/Tiger-Oscar-Fish-PNG-Image.png
+132,Black Phantom Tetra,fresh,peaceful,tropical,sand,plants,6.5,7.5,5,15,72,82,10,https://www.pngmart.com/files/3/Black-Phantom-Tetra-Fish-PNG-Pic.png
+133,Bronze Corydoras,fresh,peaceful,tropical,sand,plants,6,8,2,25,70,74,10,https://www.pngmart.com/files/3/Bronze-Corydoras-Fish-PNG-Picture.png
+134,Ghost Catfish,fresh,peaceful,tropical,sand,decorations,6.5,7.5,5,20,70,77,20,https://www.pngmart.com/files/2/Ghost-Catfish-Fish-PNG-Pic.png
+135,Black Widow Tetra,fresh,peaceful,tropical,sand,plants,6.5,7.5,5,15,72,82,10,https://www.pngmart.com/files/3/Black-Widow-Tetra-Fish-PNG-Image.png
+136,Golden Nugget Pleco,fresh,peaceful,tropical,sand,decorations,6.5,7.5,5,20,70,77,30,https://www.pngmart.com/files/4/Golden-Nugget-Pleco-Fish-PNG-Image.png
+137,Reticulated Hillstream Loach,fresh,peaceful,cold,sand,decorations,6,7.5,5,15,64,72,20,https://www.pngmart.com/files/4/Reticulated-Hillstream-Loach-Fish-PNG-Pic.png
+138,Albino Rainbow Shark,fresh,semi-aggressive,tropical,"sand, gravel",decorations,6.5,7.5,5,20,72,82,30,https://www.pngmart.com/files/4/Albino-Rainbow-Shark-Fish-PNG-Picture.png
+139,Peacock Bass,fresh,aggressive,tropical,sand,decorations,6.5,8,5,20,75,82,50,https://www.pngmart.com/files/5/Peacock-Bass-Fish-PNG-Image.png
+140,Cobalt Blue Dwarf Gourami,fresh,peaceful,tropical,sand,plants,6,7.5,5,15,72,82,20,https://www.pngmart.com/files/3/Cobalt-Blue-Dwarf-Gourami-Fish-PNG-Pic.png
+141,Green Texas Cichlid,fresh,aggressive,tropical,sand,decorations,6.5,8,5,20,75,82,50,https://www.pngmart.com/files/4/Green-Texas-Cichlid-Fish-PNG-Pic.png
+142,Corydoras Aeneus,fresh,peaceful,tropical,sand,decorations,6,8,2,25,70,74,10,https://www.pngmart.com/files/3/Corydoras-Aeneus-Fish-PNG-Picture.png
+143,Blue Ram Cichlid,fresh,peaceful,tropical,sand,decorations,6,7.5,5,20,72,82,20,https://www.pngmart.com/files/5/Blue-Ram-Cichlid-Fish-PNG-Image.png
+144,Rosy Barb,fresh,peaceful,tropical,sand,plants,6,7.5,5,15,72,82,10,https://www.pngmart.com/files/5/Rosy-Barb-Fish-PNG-Pic.png
+145,Longfin Zebra Danio,fresh,peaceful,tropical,sand,plants,6.5,7.5,5,20,65,77,10,https://www.pngmart.com/files/4/Longfin-Zebra-Danio-Fish-PNG-Pic.png
+146,Kuhli Loach,fresh,peaceful,tropical,sand,decorations,6.5,7.5,5,20,72,82,20,https://www.pngmart.com/files/5/Kuhli-Loach-Fish-PNG-Pic.png
+147,Cherry Barb,fresh,peaceful,tropical,sand,plants,6,7.5,5,15,72,82,10,https://www.pngmart.com/files/3/Cherry-Barb-Fish-PNG-Image.png
+148,Panda Garra,fresh,peaceful,cold,sand,plants,6,7.5,5,20,70,72,5,https://www.pngmart.com/files/3/Panda-Garra-Fish-PNG-Pic.png
+149,Electric Blue Acara,fresh,peaceful,tropical,sand,decorations,6.5,7.5,5,20,72,82,30,https://www.pngmart.com/files/3/Electric-Blue-Acara-Fish-PNG-Image.png
+150,Albino Corydoras,fresh,peaceful,tropical,sand,decorations,6,8,2,25,70,74,10,https://www.pngmart.com/files/2/Albino-Corydoras-Fish-PNG-Picture.png
+151,Yellow Lab Cichlid,fresh,peaceful,tropical,sand,decorations,6.5,7.5,5,20,72,82,20,https://www.pngmart.com/files/2/Yellow-Lab-Cichlid-Fish-PNG-Pic.png
+152,Paroon Shark,fresh,aggressive,tropical,sand,decorations,6.5,8,5,20,75,82,50,https://www.pngmart.com/files/4/Paroon-Shark-Fish-PNG-Image.png
+153,Boesemani Rainbowfish,fresh,peaceful,tropical,sand,plants,6.5,7.5,5,15,72,82,20,https://www.pngmart.com/files/2/Boesemani-Rainbowfish-Fish-PNG-Pic.png
+154,Red Lizard Whiptail Catfish,fresh,peaceful,tropical,sand,decorations,6.5,7.5,5,20,70,77,20,https://www.pngmart.com/files/3/Red-Lizard-Whiptail-Catfish-Fish-PNG-Pic.png
+155,Leopard Pleco,fresh,peaceful,tropical,sand,decorations,6.5,7.5,5,20,72,82,20,https://www.pngmart.com/files/3/Leopard-Pleco-Fish-PNG-Pic.png
+156,Red Phantom Tetra,fresh,peaceful,tropical,sand,plants,6,7.5,5,15,72,82,10,https://www.pngmart.com/files/4/Red-Phantom-Tetra-Fish-PNG-Image.png
+157,Spotted Green Puffer,fresh,semi-aggressive,tropical,sand,decorations,6,7.5,5,20,72,82,5,https://www.pngmart.com/files/5/Spotted-Green-Puffer-Fish-PNG-Pic.png
+158,Galaxy Rasbora,fresh,peaceful,tropical,sand,plants,6,7.5,5,15,72,82,10,https://www.pngmart.com/files/3/Galaxy-Rasbora-Fish-PNG-Pic.png
+159,Half Black Angelfish,fresh,semi-aggressive,tropical,sand,plants,6.5,7.5,5,20,72,82,20,https://www.pngmart.com/files/5/Half-Black-Angelfish-Fish-PNG-Image.png
+160,Albino Rainbow Shark,fresh,semi-aggressive,tropical,sand,decorations,6.5,7.5,5,20,72,82,30,https://www.pngmart.com/files/4/Albino-Rainbow-Shark-Fish-PNG-Pic.png
+161,Black Ruby Barb,fresh,peaceful,tropical,sand,plants,6,7.5,5,15,72,82,10,https://www.pngmart.com/files/3/Black-Ruby-Barb-Fish-PNG-Image.png
+162,Zebra Loach,fresh,peaceful,tropical,sand,decorations,6.5,7.5,5,20,70,77,20,https://www.pngmart.com/files/4/Zebra-Loach-Fish-PNG-Pic.png
+163,Electric Blue Hap,fresh,aggressive,tropical,sand,decorations,6.5,8,5,20,72,82,50,https://www.pngmart.com/files/2/ Electric-Blue-Hap-Fish-PNG-Image.png
+164,Koi Carp,fresh,peaceful,cold,sand,plants,6.5,7.5,10,28,70,84,100,https://www.pngmart.com/files/3/Koi-Carp-Fish-PNG-Pic.png
+165,Threadfin Geophagus,fresh,peaceful,tropical,sand,decorations,6.5,7.5,5,20,72,82,30,https://www.pngmart.com/files/5/Threadfin-Geophagus-Fish-PNG-Image.png
+166,Penguin Tetra,fresh,peaceful,tropical,sand,plants,6,7.5,5,15,72,82,10,https://www.pngmart.com/files/5/Penguin-Tetra-Fish-PNG-Pic.png
+167,Kenya Gold Barb,fresh,peaceful,tropical,sand,plants,6,7.5,5,15,72,82,10,https://www.pngmart.com/files/4/Kenya-Gold-Barb-Fish-PNG-Image.png
+168,Paradise Gourami,fresh,peaceful,tropical,sand,plants,6,7.5,5,15,72,82,20,https://www.pngmart.com/files/2/Paradise-Gourami-Fish-PNG-Pic.png
+169,Yoyo Loach,fresh,peaceful,tropical,sand,decorations,6.5,7.5,5,20,70,77,20,https://www.pngmart.com/files/3/Yoyo-Loach-Fish-PNG-Pic.png
+170,Assorted Veil Angelfish,fresh,semi-aggressive,tropical,sand,plants,6.5,7.5,5,20,72,82,20,https://www.pngmart.com/files/3/Assorted-Veil-Angelfish-Fish-PNG-Image.png
+171,Clown Rasbora,fresh,peaceful,tropical,sand,plants,6,7.5,5,15,72,82,10,https://www.pngmart.com/files/3/Clown-Rasbora-Fish-PNG-Pic.png
+172,Chilatherina Alleni,fresh,peaceful,tropical,sand,plants,6.5,7.5,5,15,72,82,20,https://www.pngmart.com/files/2/Chilatherina-Alleni-Fish-PNG-Image.png
+173,Blue Paradise Fish,fresh,peaceful,tropical,sand,plants,6,7.5,5,15,72,82,10,https://www.pngmart.com/files/5/Blue-Paradise-Fish-PNG-Pic.png
+174,Red Zebra Cichlid,fresh,aggressive,tropical,sand,decorations,6.5,7.5,5,20,72,82,20,https://www.pngmart.com/files/4/Red-Zebra-Cichlid-Fish-PNG-Image.png
+175,Odessa Barb,fresh,peaceful,tropical,sand,plants,6,7.5,5,15,72,82,10,https://www.pngmart.com/files/4/Odessa-Barb-Fish-PNG-Pic.png
+176,Kribensis,fresh,peaceful,tropical,sand,plants,5.5,7.5,2,15,72,82,20,https://www.pngmart.com/files/5/Kribensis-Fish-PNG-Transparent-Pic.png
+177,Panda Corydoras,fresh,peaceful,tropical,sand,plants,6,8,2,25,70,74,10,https://www.pngmart.com/files/3/Panda-Corydoras-Fish-PNG-Picture.png
+178,Plecostomus,fresh,peaceful,tropical,sand,decorations,6.5,7.5,5,20,70,77,20,https://www.pngmart.com/files/3/Plecostomus-Fish-PNG-Pic.png
+179,Threadfin Rainbowfish,fresh,peaceful,tropical,sand,plants,6.5,7.5,5,15,72,82,20,https://www.pngmart.com/files/3/Threadfin-Rainbowfish-Fish-PNG-Picture.png
+180,Dragon Goby,fresh,peaceful,tropical,sand,decorations,6.5,7.5,5,20,75,82,30,https://www.pngmart.com/files/5/Dragon-Goby-Fish-PNG-Pic.png
+181,Denison Barb,fresh,peaceful,tropical,sand,plants,6.5,7.5,5,15,72,82,20,https://www.pngmart.com/files/5/Denison-Barb-Fish-PNG-Image.png
+182,Panther Grouper,fresh,aggressive,tropical,sand,decorations,6.5,8,5,20,75,82,50,https://www.pngmart.com/files/2/Panther-Grouper-Fish-PNG-Pic.png
+183,Albino Tiger Oscar,fresh,aggressive,tropical,sand,decorations,6.5,8,5,20,75,82,50,https://www.pngmart.com/files/3/Albino-Tiger-Oscar-Fish-PNG-Image.png
+184,Harlequin Rasbora,fresh,peaceful,tropical,sand,plants,6,7.5,5,15,72,82,10,https://www.pngmart.com/files/2/Harlequin-Rasbora-Fish-PNG-Pic.png
+185,Yellow Rainbowfish,fresh,peaceful,tropical,sand,plants,6.5,7.5,5,15,72,82,20,https://www.pngmart.com/files/3/Yellow-Rainbowfish-Fish-PNG-Image.png
+186,Zebra Pleco,fresh,peaceful,tropical,sand,decorations,6,7.5,5,20,72,82,20,https://www.pngmart.com/files/3/Zebra-Pleco-Fish-PNG-Pic.png
+187,Celestial Pearl Danio,fresh,peaceful,tropical,sand,plants,6,7.5,5,15,72,82,10,https://www.pngmart.com/files/5/Celestial-Pearl-Danio-Fish-PNG-Pic.png
+188,Crowntail Betta,fresh,aggressive,tropical,sand,decorations,6.5,8,5,20,75,80,5,https://www.pngmart.com/files/2/Crowntail-Betta-Fish-PNG-Pic.png
+189,Clown Pleco,fresh,peaceful,tropical,sand,decorations,6.5,7.5,5,20,70,77,20,https://www.pngmart.com/files/3/Clown-Pleco-Fish-PNG-Image.png
+190,Striped Raphael Catfish,fresh,peaceful,tropical,sand,decorations,6.5,7.5,5,20,70,77,20,https://www.pngmart.com/files/4/Striped-Raphael-Catfish-Fish-PNG-Pic.png
+191,Golden Wonder Killifish,fresh,peaceful,tropical,sand,plants,6,7.5,5,20,72,82,10,https://www.pngmart.com/files/3/Golden-Wonder-Killifish-Fish-PNG-Image.png
+192,Glowlight Tetra,fresh,peaceful,tropical,sand,plants,6,7.5,5,15,72,82,10,https://www.pngmart.com/files/2/Glowlight-Tetra-Fish-PNG-Pic.png
+193,Koi Betta,fresh,semi-aggressive,tropical,sand,decorations,6.5,8,5,20,75,80,5,https://www.pngmart.com/files/5/Koi-Betta-Fish-PNG-Image.png
+194,Checkered Barb,fresh,peaceful,tropical,sand,plants,6,7.5,5,15,72,82,10,https://www.pngmart.com/files/4/Checkered-Barb-Fish-PNG-Pic.png
+195,Flag Acara,fresh,peaceful,tropical,sand,decorations,6.5,7.5,5,20,72,82,30,https://www.pngmart.com/files/5/Flag-Acara-Fish-PNG-Image.png
+196,Potbelly Seahorse,fresh,peaceful,cold,sand,decorations,6.5,7.5,5,20,64,72,10,https://www.pngmart.com/files/4/Potbelly-Seahorse-Fish-PNG-Pic.png
+197,Redtail Catfish,fresh,aggressive,tropical,sand,decorations,6.5,8,5,20,75,82,50,https://www.pngmart.com/files/5/Redtail-Catfish-Fish-PNG-Image.png
+198,Assassin Snail,fresh,peaceful,tropical,sand,plants,6.5,7.5,5,20,70,82,1,https://www.pngmart.com/files/5/Assassin-Snail-Fish-PNG-Pic.png
+199,Apistogramma Cacatuoides,fresh,peaceful,tropical,sand,plants,6,7.5,5,15,72,82,20,https://www.pngmart.com/files/3/Apistogramma-Cacatuoides-Fish-PNG-Image.png
+200,Redtail Catfish,fresh,aggressive,tropical,sand,decorations,6.5,7.5,5,20,75,82,100,https://www.pngmart.com/files/3/Redtail-Catfish-Fish-PNG-Pic.png
+201,Golden Nugget Pleco,fresh,peaceful,tropical,sand,decorations,6.5,7.5,5,20,72,82,20,https://www.pngmart.com/files/3/Golden-Nugget-Pleco-Fish-PNG-Pic.png
+202,Silver Arowana,fresh,aggressive,tropical,surface,decorations,6.5,8,5,20,75,82,100,https://www.pngmart.com/files/2/Silver-Arowana-Fish-PNG-Pic.png
+203,Threadfin Rainbowfish,fresh,peaceful,tropical,sand,plants,6.5,7.5,5,15,72,82,10,https://www.pngmart.com/files/2/Threadfin-Rainbowfish-Fish-PNG-Pic.png
+204,Butterfly Fish,salt,peaceful,tropical,coral,plants,8,8.5,5,20,76,84,20,https://www.pngmart.com/files/3/Butterfly-Fish-PNG-Image.png
+205,Blueface Angelfish,salt,semi-aggressive,tropical,coral,decorations,8,8.5,5,20,76,84,30,https://www.pngmart.com/files/4/Blueface-Angelfish-PNG-Transparent-Pic.png
+206,Yellow Watchman Goby,salt,peaceful,tropical,sand,coral,7.5,8.5,5,20,76,84,10,https://www.pngmart.com/files/5/Yellow-Watchman-Goby-Fish-PNG-Image.png
+207,Dragon Wrasse,salt,aggressive,tropical,sand,coral,7.5,8.5,5,20,76,84,30,https://www.pngmart.com/files/2/Dragon-Wrasse-Fish-PNG-Pic.png
+208,Clown Triggerfish,salt,aggressive,tropical,coral,decorations,8,8.5,5,20,76,84,100,https://www.pngmart.com/files/3/Clown-Triggerfish-Fish-PNG-Image.png
+209,Flame Hawkfish,salt,aggressive,tropical,coral,decorations,8,8.5,5,20,76,84,10,https://www.pngmart.com/files/4/Flame-Hawkfish-Fish-PNG-Pic.png
+210,Longnose Hawkfish,salt,aggressive,tropical,coral,decorations,8,8.5,20,28,20,75,10,https://www.pngmart.com/files/5/Longnose-Hawkfish-Fish-PNG-Image.png
+211,Leopard Coralfish,salt,peaceful,tropical,coral,decorations,8,8.5,24,28,75,100,17,https://www.pngmart.com/files/4/Leopard-Coralfish-Fish-PNG-Pic.png
+212,Blue Damselfish,salt,aggressive,tropical,coral,decorations,8,8.5,24,28,20,75,7,https://www.pngmart.com/files/5/Blue-Damselfish-Fish-PNG-Transparent-Pic.png
+213,Three Spot Gourami,fresh,peaceful,tropical,plants,decorations,6,8,24,28,20,75,10,https://www.pngmart.com/files/2/Three-Spot-Gourami-Fish-PNG-Transparent-Image.png
+214,Yellowtail Clownfish,salt,aggressive,tropical,coral,decorations,8,8.5,24,28,20,75,14,https://www.pngmart.com/files/3/Yellowtail-Clownfish-Fish-PNG-Transparent-Picture.png
+215,Threadfin Butterflyfish,salt,peaceful,tropical,coral,decorations,8,8.5,24,28,75,100,23,https://www.pngmart.com/files/4/Threadfin-Butterflyfish-Fish-PNG-Pic.png
+216,Saddle Valentini Puffer,salt,semi-aggressive,tropical,coral,decorations,8,8.5,24,28,30,75,10,https://www.pngmart.com/files/5/Saddle-Valentini-Puffer-Fish-PNG-Pic.png
+217,Royal Dottyback,salt,aggressive,tropical,coral,decorations,8,8.5,24,28,20,75,8,https://www.pngmart.com/files/2/Royal-Dottyback-Fish-PNG-Transparent-Picture.png
+218,Pink Skunk Clownfish,salt,peaceful,tropical,coral,decorations,8,8.5,24,28,20,75,10,https://www.pngmart.com/files/3/Pink-Skunk-Clownfish-Fish-PNG-Photo.png
+219,Orchid Dottyback,salt,aggressive,tropical,coral,decorations,8,8.5,24,28,20,75,10,https://www.pngmart.com/files/4/Orchid-Dottyback-Fish-PNG-Image.png
+220,Koran Angelfish,salt,semi-aggressive,tropical,coral,decorations,8,8.5,24,28,75,100,23,https://www.pngmart.com/files/5/Koran-Angelfish-Fish-PNG-Picture.png
+221,French Angelfish,salt,aggressive,tropical,coral,decorations,8,8.5,24,28,75,100,45,https://www.pngmart.com/files/2/French-Angelfish-Fish-PNG-Pic.png
+222,Emperor Angelfish,salt,aggressive,tropical,coral,decorations,8,8.5,24,28,125,220,40,https://www.pngmart.com/files/3/Emperor-Angelfish-Fish-PNG-Image.png
+223,Blueface Angelfish,salt,semi-aggressive,tropical,coral,decorations,8,8.5,24,28,75,100,40,https://www.pngmart.com/files/4/Blueface-Angelfish-PNG-Transparent-Pic.png
+224,Yellow Watchman Goby,salt,peaceful,tropical,sand,coral,7.5,8.5,24,28,75,100,12,https://www.pngmart.com/files/5/Yellow-Watchman-Goby-Fish-PNG-Image.png
+225,Dragon Wrasse,salt,aggressive,tropical,sand,coral,7.5,8.5,24,28,75,100,40,https://www.pngmart.com/files/2/Dragon-Wrasse-Fish-PNG-Pic.png
+226,Clown Triggerfish,salt,aggressive,tropical,coral,decorations,8,8.5,24,28,125,220,75,https://www.pngmart.com/files/3/Clown-Triggerfish-Fish-PNG-Image.png
+227,Flame Hawkfish,salt,aggressive,tropical,coral,decorations,8,8.5,24,28,30,75,10,https://www.pngmart.com/files/4/Flame-Hawkfish-Fish-PNG-Pic.png
+228,Longnose Hawkfish,salt,aggressive,tropical,coral,decorations,8,8.5,24,28,30,75,10,https://www.pngmart.com/files/5/Longnose-Hawkfish-Fish-PNG-Image.png
+229,Leopard Coralfish,salt,peaceful,tropical,coral,decorations,8,8.5,24,28,75,100,17,https://www.pngmart.com/files/4/Leopard-Coralfish-Fish-PNG-Pic.png
+230,Blue Damselfish,salt,aggressive,tropical,coral,decorations,8,8.5,24,28,20,75,7,https://www.pngmart.com/files/5/Blue-Damselfish-Fish-PNG-Transparent-Pic.png
+231,Three Spot Gourami,fresh,peaceful,tropical,plants,decorations,6,8,24,28,20,75,10,https://www.pngmart.com/files/2/Three-Spot-Gourami-Fish-PNG-Transparent-Image.png
+232,Yellowtail Clownfish,salt,aggressive,tropical,coral,decorations,8,8.5,24,28,20,75,14,https://www.pngmart.com/files/3/Yellowtail-Clownfish-Fish-PNG-Transparent-Picture.png
+233,Threadfin Butterflyfish,salt,peaceful,tropical,coral,decorations,8,8.5,24,28,75,100,23,https://www.pngmart.com/files/4/Threadfin-Butterflyfish-Fish-PNG-Pic.png
+234,Saddle Valentini Puffer,salt,semi-aggressive,tropical,coral,decorations,8,8.5,24,28,30,75,10,https://www.pngmart.com/files/5/Saddle-Valentini-Puffer-Fish-PNG-Pic.png
+235,Royal Dottyback,salt,aggressive,tropical,coral,decorations,8,8.5,24,28,20,75,8,https://www.pngmart.com/files/2/Royal-Dottyback-Fish-PNG-Transparent-Picture.png
+236,Pink Skunk Clownfish,salt,peaceful,tropical,coral,decorations,8,8.5,24,28,20,75,10,https://www.pngmart.com/files/3/Pink-Skunk-Clownfish-Fish-PNG-Photo.png
+237,Orchid Dottyback,salt,aggressive,tropical,coral,decorations,8,8.5,24,28,20,75,10,https://www.pngmart.com/files/4/Orchid-Dottyback-Fish-PNG-Image.png
+238,Koran Angelfish,salt,semi-aggressive,tropical,coral,decorations,8,8.5,24,28,75,100,23,https://www.pngmart.com/files/5/Koran-Angelfish-Fish-PNG-Picture.png
+239,French Angelfish,salt,aggressive,tropical,coral,decorations,8,8.5,24,28,75,100,45,https://www.pngmart.com/files/2/French-Angelfish-Fish-PNG-Pic.png
+240,Emperor Angelfish,salt,aggressive,tropical,coral,decorations,8,8.5,24,28,125,220,40,https://www.pngmart.com/files/3/Emperor-Angelfish-Fish-PNG-Image.png
+241,Blueface Angelfish,salt,semi-aggressive,tropical,coral,decorations,8,8.5,24,28,75,100,40,https://www.pngmart.com/files/4/Blueface-Angelfish-PNG-Transparent-Pic.png
+242,Yellow Watchman Goby,salt,peaceful,tropical,sand,coral,7.5,8.5,24,28,75,100,12,https://www.pngmart.com/files/5/Yellow-Watchman-Goby-Fish-PNG-Image.png
+243,Dragon Wrasse,salt,aggressive,tropical,sand,coral,7.5,8.5,24,28,75,100,40,https://www.pngmart.com/files/2/Dragon-Wrasse-Fish-PNG-Pic.png
+244,Clown Triggerfish,salt,aggressive,tropical,coral,decorations,8,8.5,24,28,125,220,75,https://www.pngmart.com/files/3/Clown-Triggerfish-Fish-PNG-Image.png
+245,Flame Hawkfish,salt,aggressive,tropical,coral,decorations,8,8.5,24,28,30,75,10,https://www.pngmart.com/files/4/Flame-Hawkfish-Fish-PNG-Pic.png
+246,Longnose Hawkfish,salt,aggressive,tropical,coral,decorations,8,8.5,24,28,30,75,10,https://www.pngmart.com/files/5/Longnose-Hawkfish-Fish-PNG-Image.png
+247,Leopard Coralfish,salt,peaceful,tropical,coral,decorations,8,8.5,24,28,75,100,17,https://www.pngmart.com/files/4/Leopard-Coralfish-Fish-PNG-Pic.png
+248,Blue Damselfish,salt,aggressive,tropical,coral,decorations,8,8.5,24,28,20,75,7,https://www.pngmart.com/files/5/Blue-Damselfish-Fish-PNG-Transparent-Pic.png
+249,Three Spot Gourami,fresh,peaceful,tropical,plants,decorations,6,8,24,28,20,75,10,https://www.pngmart.com/files/2/Three-Spot-Gourami-Fish-PNG-Transparent-Image.png
+250,Yellowtail Clownfish,salt,aggressive,tropical,coral,decorations,8,8.5,24,28,20,75,14,https://www.pngmart.com/files/3/Yellowtail-Clownfish-Fish-PNG-Transparent-Picture.png
+251,Threadfin Butterflyfish,salt,peaceful,tropical,coral,decorations,8,8.5,24,28,75,100,23,https://www.pngmart.com/files/4/Threadfin-Butterflyfish-Fish-PNG-Pic.png
+252,Saddle Valentini Puffer,salt,semi-aggressive,tropical,coral,decorations,8,8.5,24,28,30,75,10,https://www.pngmart.com/files/5/Saddle-Valentini-Puffer-Fish-PNG-Pic.png
+253,Royal Dottyback,salt,aggressive,tropical,coral,decorations,8,8.5,24,28,20,75,8,https://www.pngmart.com/files/2/Royal-Dottyback-Fish-PNG-Transparent-Picture.png
+254,Pink Skunk Clownfish,salt,peaceful,tropical,coral,decorations,8,8.5,24,28,20,75,10,https://www.pngmart.com/files/3/Pink-Skunk-Clownfish-Fish-PNG-Photo.png
+255,Orchid Dottyback,salt,aggressive,tropical,coral,decorations,8,8.5,24,28,20,75,10,https://www.pngmart.com/files/4/Orchid-Dottyback-Fish-PNG-Image.png
+256,Koran Angelfish,salt,semi-aggressive,tropical,coral,decorations,8,8.5,24,28,75,100,23,https://www.pngmart.com/files/5/Koran-Angelfish-Fish-PNG-Picture.png
+257,French Angelfish,salt,aggressive,tropical,coral,decorations,8,8.5,24,28,75,100,45,https://www.pngmart.com/files/2/French-Angelfish-Fish-PNG-Pic.png
+258,Emperor Angelfish,salt,aggressive,tropical,coral,decorations,8,8.5,24,28,125,220,40,https://www.pngmart.com/files/3/Emperor-Angelfish-Fish-PNG-Image.png
+259,Blueface Angelfish,salt,semi-aggressive,tropical,coral,decorations,8,8.5,24,28,75,100,40,https://www.pngmart.com/files/4/Blueface-Angelfish-PNG-Transparent-Pic.png
+260,Yellow Watchman Goby,salt,peaceful,tropical,sand,coral,7.5,8.5,24,28,75,100,12,https://www.pngmart.com/files/5/Yellow-Watchman-Goby-Fish-PNG-Image.png
+261,Dragon Wrasse,salt,aggressive,tropical,sand,coral,7.5,8.5,24,28,75,100,40,https://www.pngmart.com/files/2/Dragon-Wrasse-Fish-PNG-Pic.png
+262,Clown Triggerfish,salt,aggressive,tropical,coral,decorations,8,8.5,24,28,125,220,75,https://www.pngmart.com/files/3/Clown-Triggerfish-Fish-PNG-Image.png
+263,Flame Hawkfish,salt,aggressive,tropical,coral,decorations,8,8.5,24,28,30,75,10,https://www.pngmart.com/files/4/Flame-Hawkfish-Fish-PNG-Pic.png
+264,Longnose Hawkfish,salt,aggressive,tropical,coral,decorations,8,8.5,24,28,30,75,10,https://www.pngmart.com/files/5/Longnose-Hawkfish-Fish-PNG-Image.png
+265,Leopard Coralfish,salt,peaceful,tropical,coral,decorations,8,8.5,24,28,75,100,17,https://www.pngmart.com/files/4/Leopard-Coralfish-Fish-PNG-Pic.png
+266,Blue Damselfish,salt,aggressive,tropical,coral,decorations,8,8.5,24,28,20,75,7,https://www.pngmart.com/files/5/Blue-Damselfish-Fish-PNG-Transparent-Pic.png
+267,Three Spot Gourami,fresh,peaceful,tropical,plants,decorations,6,8,24,28,20,75,10,https://www.pngmart.com/files/2/Three-Spot-Gourami-Fish-PNG-Transparent-Image.png
+268,Yellowtail Clownfish,salt,aggressive,tropical,coral,decorations,8,8.5,24,28,20,75,14,https://www.pngmart.com/files/3/Yellowtail-Clownfish-Fish-PNG-Transparent-Picture.png
+269,Threadfin Butterflyfish,salt,peaceful,tropical,coral,decorations,8,8.5,24,28,75,100,23,https://www.pngmart.com/files/4/Threadfin-Butterflyfish-Fish-PNG-Pic.png
+270,Saddle Valentini Puffer,salt,semi-aggressive,tropical,coral,decorations,8,8.5,24,28,30,75,10,https://www.pngmart.com/files/5/Saddle-Valentini-Puffer-Fish-PNG-Pic.png
+271,Royal Dottyback,salt,aggressive,tropical,coral,decorations,8,8.5,24,28,20,75,8,https://www.pngmart.com/files/2/Royal-Dottyback-Fish-PNG-Transparent-Picture.png
+272,Pink Skunk Clownfish,salt,peaceful,tropical,coral,decorations,8,8.5,24,28,20,75,10,https://www.pngmart.com/files/3/Pink-Skunk-Clownfish-Fish-PNG-Photo.png
+273,Orchid Dottyback,salt,aggressive,tropical,coral,decorations,8,8.5,24,28,20,75,10,https://www.pngmart.com/files/4/Orchid-Dottyback-Fish-PNG-Image.png
+274,Koran Angelfish,salt,semi-aggressive,tropical,coral,decorations,8,8.5,24,28,75,100,23,https://www.pngmart.com/files/5/Koran-Angelfish-Fish-PNG-Picture.png
+275,French Angelfish,salt,aggressive,tropical,coral,decorations,8,8.5,24,28,75,100,45,https://www.pngmart.com/files/2/French-Angelfish-Fish-PNG-Pic.png
+276,Emperor Angelfish,salt,aggressive,tropical,coral,decorations,8,8.5,24,28,125,220,40,https://www.pngmart.com/files/3/Emperor-Angelfish-Fish-PNG-Image.png
+277,Blueface Angelfish,salt,semi-aggressive,tropical,coral,decorations,8,8.5,24,28,75,100,40,https://www.pngmart.com/files/4/Blueface-Angelfish-PNG-Transparent-Pic.png
+278,Yellow Watchman Goby,salt,peaceful,tropical,sand,coral,7.5,8.5,24,28,75,100,12,https://www.pngmart.com/files/5/Yellow-Watchman-Goby-Fish-PNG-Image.png
+279,Dragon Wrasse,salt,aggressive,tropical,sand,coral,7.5,8.5,24,28,75,100,40,https://www.pngmart.com/files/2/Dragon-Wrasse-Fish-PNG-Pic.png
+280,Clown Triggerfish,salt,aggressive,tropical,coral,decorations,8,8.5,24,28,125,220,75,https://www.pngmart.com/files/3/Clown-Triggerfish-Fish-PNG-Image.png
+281,Flame Hawkfish,salt,aggressive,tropical,coral,decorations,8,8.5,24,28,30,75,10,https://www.pngmart.com/files/4/Flame-Hawkfish-Fish-PNG-Pic.png
+282,Longnose Hawkfish,salt,aggressive,tropical,coral,decorations,8,8.5,24,28,30,75,10,https://www.pngmart.com/files/5/Longnose-Hawkfish-Fish-PNG-Image.png
+283,Leopard Coralfish,salt,peaceful,tropical,coral,decorations,8,8.5,24,28,75,100,17,https://www.pngmart.com/files/4/Leopard-Coralfish-Fish-PNG-Pic.png
+284,Blue Damselfish,salt,aggressive,tropical,coral,decorations,8,8.5,24,28,20,75,7,https://www.pngmart.com/files/5/Blue-Damselfish-Fish-PNG-Transparent-Pic.png
+285,Three Spot Gourami,fresh,peaceful,tropical,plants,decorations,6,8,24,28,20,75,10,https://www.pngmart.com/files/2/Three-Spot-Gourami-Fish-PNG-Transparent-Image.png
+286,Yellowtail Clownfish,salt,aggressive,tropical,coral,decorations,8,8.5,24,28,20,75,14,https://www.pngmart.com/files/3/Yellowtail-Clownfish-Fish-PNG-Transparent-Picture.png
+287,Threadfin Butterflyfish,salt,peaceful,tropical,coral,decorations,8,8.5,24,28,75,100,23,https://www.pngmart.com/files/4/Threadfin-Butterflyfish-Fish-PNG-Pic.png
+288,Saddle Valentini Puffer,salt,semi-aggressive,tropical,coral,decorations,8,8.5,24,28,30,75,10,https://www.pngmart.com/files/5/Saddle-Valentini-Puffer-Fish-PNG-Pic.png
+289,Royal Dottyback,salt,aggressive,tropical,coral,decorations,8,8.5,24,28,20,75,8,https://www.pngmart.com/files/2/Royal-Dottyback-Fish-PNG-Transparent-Picture.png
+290,Pink Skunk Clownfish,salt,peaceful,tropical,coral,decorations,8,8.5,24,28,20,75,10,https://www.pngmart.com/files/3/Pink-Skunk-Clownfish-Fish-PNG-Photo.png
+291,Orchid Dottyback,salt,aggressive,tropical,coral,decorations,8,8.5,24,28,20,75,10,https://www.pngmart.com/files/4/Orchid-Dottyback-Fish-PNG-Image.png
+292,Koran Angelfish,salt,semi-aggressive,tropical,coral,decorations,8,8.5,24,28,75,100,23,https://www.pngmart.com/files/5/Koran-Angelfish-Fish-PNG-Picture.png
+293,French Angelfish,salt,aggressive,tropical,coral,decorations,8,8.5,24,28,75,100,45,https://www.pngmart.com/files/2/French-Angelfish-Fish-PNG-Pic.png
+294,Emperor Angelfish,salt,aggressive,tropical,coral,decorations,8,8.5,24,28,125,220,40,https://www.pngmart.com/files/3/Emperor-Angelfish-Fish-PNG-Image.png
+295,Blueface Angelfish,salt,semi-aggressive,tropical,coral,decorations,8,8.5,24,28,75,100,40,https://www.pngmart.com/files/4/Blueface-Angelfish-PNG-Transparent-Pic.png
+296,Yellow Watchman Goby,salt,peaceful,tropical,sand,coral,7.5,8.5,24,28,75,100,12,https://www.pngmart.com/files/5/Yellow-Watchman-Goby-Fish-PNG-Image.png
+297,Dragon Wrasse,salt,aggressive,tropical,sand,coral,7.5,8.5,24,28,75,100,40,https://www.pngmart.com/files/2/Dragon-Wrasse-Fish-PNG-Pic.png
+298,Clown Triggerfish,salt,aggressive,tropical,coral,decorations,8,8.5,24,28,125,220,75,https://www.pngmart.com/files/3/Clown-Triggerfish-Fish-PNG-Image.png
+299,Flame Hawkfish,salt,aggressive,tropical,coral,decorations,8,8.5,24,28,30,75,10,https://www.pngmart.com/files/4/Flame-Hawkfish-Fish-PNG-Pic.png
+300,Longnose Hawkfish,salt,aggressive,tropical,coral,decorations,8,8.5,24,28,30,75,10,https://www.pngmart.com/files/5/Longnose-Hawkfish-Fish-PNG-Image.png
