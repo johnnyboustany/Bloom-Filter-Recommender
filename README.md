@@ -64,7 +64,7 @@ Run these commands in the terminal:
 
     load_bf fish
 
-    similar_bf similar_bf [number of matches desired] [first part of fish name] [desired tank size in gallons]
+    similar_bf [number of matches desired] [first part of fish name] [desired tank size in gallons]
 
 e.g. of using similar_bf to find 4 matches for a Neon Tetra fish in a 10 gallon tank
 
