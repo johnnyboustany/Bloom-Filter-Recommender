@@ -1,6 +1,6 @@
 # Bloom Filter Recommender
 
-Bloom Filter Recommender is a personal project I developed to allow aquarium hobbyists to find compatible tank-mate options for their nano-fish. It uses bloom filters to find similar fish out of a CSV Database of nano-fish. I developed a generic, re-usable REPL and CSV Reader and incorporated them into the project.
+Bloom Filter Recommender is a personal project I developed to allow aquarium hobbyists to find compatible tank-mate options for their fish. It uses bloom filters to find similar fish out of a CSV Database of 300 fish. I developed a generic, re-usable REPL and CSV Reader and incorporated them into the project.
 
 <p align="center">
     <img src="./assets/nanofish.png" alt="" width="1000">
@@ -25,7 +25,7 @@ The Java application was built upon the foundation of a generic REPL (Read–eva
 
 ## Implementation
 
-I created a CSV file with a list of nano-fish and their corresponding data. I included qualitative information for each fish regarding their habitat of origin, aquarium plant and substrate preferences and water salinity (freshwater or brackish). I also included quantitative information, including the ranges of pH, temperature, and hardness that the fish can tolerate and the minimum tank size that would be suitable for them.
+I created a CSV file with a list of 300 fish and their corresponding data. I included qualitative information for each fish regarding their habitat of origin, aquarium plant and substrate preferences and water salinity (freshwater or brackish). I also included quantitative information, including the ranges of pH, temperature, and hardness that the fish can tolerate and the minimum tank size that would be suitable for them.
 
 <p align="center">
     <img src="./assets/fish_data.png" height=100 alt="">
